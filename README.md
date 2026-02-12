@@ -13,7 +13,7 @@ A complete decentralized oracle system for Solana that provides verified, real-t
 
 ```bash
 git clone <repository-url>
-cd xy-data-oracle
+cd xydata-oracle
 
 # Install dependencies
 pnpm install
@@ -139,8 +139,8 @@ xy-data-oracle/
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/xy-data-oracle.git
-   cd xy-data-oracle
+   git clone https://github.com/duchth1993/xydata-oracle.git
+   cd xydata-oracle
    ```
 
 2. **Install all dependencies**
@@ -466,8 +466,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Links
 
-- **Repository** - https://github.com/YOUR_USERNAME/xy-data-oracle
-- **Deployed Dashboard** - https://your-vercel-url.vercel.app
+- **Repository** - https://github.com/duchth1993/xydata-oracle
+- **Deployed Dashboard** - https://xydata-oracle.vercel.app/
 - **Solana Explorer** - https://explorer.solana.com
 - **Devnet Faucet** - https://solfaucet.com
 
@@ -496,4 +496,4 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built with ❤️ for the Solana ecosystem**
+**Built with ❤️ for the XYBER
